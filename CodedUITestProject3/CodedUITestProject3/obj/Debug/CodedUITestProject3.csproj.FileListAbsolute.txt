@@ -1,0 +1,12 @@
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\bin\Debug\CodedUITestProject3.dll
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\bin\Debug\CodedUITestProject3.pdb
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.csprojAssemblyReference.cache
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.dll
+C:\Users\EDUARDOFELIZARDOCAND\source\repos\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.pdb
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\bin\Debug\CodedUITestProject3.dll
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\bin\Debug\CodedUITestProject3.pdb
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.csprojAssemblyReference.cache
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.dll
+C:\Users\Eduardo Felizardo\Documents\Projeto Citrix\CodedUITestProject3\CodedUITestProject3\obj\Debug\CodedUITestProject3.pdb
